@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7339e1c0-d9b4-43cd-baee-700980630a6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AI/ML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Ha/task1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Ha/task2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Ha/task3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Ha/task4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Ha/task5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Quan/task1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Quan/task2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Quan/task3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Quan/task4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Quan/task5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Tung/task1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Tung/task2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Tung/task3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Tung/task4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Tung/task5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV/Feature.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Chau/task1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Chau/task1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Chau/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Chau/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Chau/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Chau/task3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Chau/task4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Chau/task4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Chau/task5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Chau/task5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen2_/task1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Quyen2_/task1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen2_/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Quyen2_/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen2_/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Quyen2_/task3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen2_/task4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Quyen2_/task4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen2_/task5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Quyen2_/task5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Process/processData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Process/processData.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jvPy1RhhmuPPTjMcmhsc2MQZ0p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ML.executor&quot;: &quot;Run&quot;,
+    &quot;Python.processData.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Tuda/OneDrive - Hanoi University of Science and Technology/Documents/Research/Awake Drive/Dataset_AwakeDrive&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7339e1c0-d9b4-43cd-baee-700980630a6a" name="Changes" comment="" />
+      <created>1722264831516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722264831516</updated>
+      <workItem from="1722264834914" duration="8733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$processData.coverage" NAME="processData Coverage Results" MODIFIED="1722267485074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Process" />
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$ML.coverage" NAME="ML Coverage Results" MODIFIED="1722273498999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+  </component>
+</project>

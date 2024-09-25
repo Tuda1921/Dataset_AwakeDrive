@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7339e1c0-d9b4-43cd-baee-700980630a6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AD_UI/Data/Task1_cut/task1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/AI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/Demo_UI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/ML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/model_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/visualize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD_UI/AD_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/AD_UI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD_UI/collectData.py" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/collectData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/ANN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AI/ANN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV/Feature.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Chau/task1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Chau/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Chau/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Chau/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Chau/task3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Chau/task4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Chau/task5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Dat/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Dat/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Dat/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Dat/task3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Dat/task5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Dat/task5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Dat1/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Dat1/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Dat1/task5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Dat1/task5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Dat2/task1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Task1/Task1_dat1/task1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Dat2/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Dat2/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Dat2/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Dat2/task3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Dat2/task4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Dat2/task4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Dat2/task5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Dat2/task5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen/task1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Quyen/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Quyen/task3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen/task4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Quyen/task4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen1/task1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen1/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Quyen1/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen1/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Quyen1/task3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen1/task4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Quyen1/task4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen1/task5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Quyen1/task5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen2_/task1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen2_/task2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen2_/task3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen2_/task4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen2_/task5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen3/task1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen3/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Quyen3/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen3/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Quyen3/task3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen3/task4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Quyen3/task4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Quyen3/task5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Quyen3/task5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Thanh3/task1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Thanh3/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Thanh1/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Thanh3/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Thanh1/task3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Thanh3/task4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Thanh1/task4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Thanh3/task5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Thanh1/task5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Thanh4/task1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Thanh4/task2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Thanh2/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Thanh4/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Thanh2/task3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Thanh4/task4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Thanh2/task4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Thanh4/task5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD_UI/Data/Thanh2/task5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Process/processData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Process/processData.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AI/model_test.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jvPy1RhhmuPPTjMcmhsc2MQZ0p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.AD_UI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo_UI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ML-Tuda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ML.executor&quot;: &quot;Run&quot;,
+    &quot;Python.collectData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.processData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.visualize.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Tuda/OneDrive - Hanoi University of Science and Technology/Documents/Research/Awake Drive/Dataset_AwakeDrive/AD_UI/Data/Task1_cut&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.maddyhome.idea.vim.ui.VimEmulationConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Tuda\OneDrive - Hanoi University of Science and Technology\Documents\Research\Awake Drive\Dataset_AwakeDrive\AD_UI\Data\Task1_cut" />
+      <recent name="D:\Tuda\OneDrive - Hanoi University of Science and Technology\Documents\Research\Awake Drive\Dataset_AwakeDrive\AI" />
+      <recent name="C:\Users\nguye\OneDrive - Hanoi University of Science and Technology\Documents\Research\Awake Drive\Dataset_AwakeDrive\AD_UI\Task1" />
+      <recent name="C:\Users\nguye\OneDrive - Hanoi University of Science and Technology\Documents\Research\Awake Drive\Dataset_AwakeDrive\AI" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\OneDrive - Hanoi University of Science and Technology\Documents\Research\Awake Drive\Dataset_AwakeDrive\AI" />
+      <recent name="D:\Tuda\OneDrive - Hanoi University of Science and Technology\Documents\Research\Awake Drive\Dataset_AwakeDrive\AD_UI\Task1" />
+      <recent name="D:\Tuda\OneDrive - Hanoi University of Science and Technology\Documents\Research\Awake Drive\Dataset_AwakeDrive\AD_UI" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7339e1c0-d9b4-43cd-baee-700980630a6a" name="Changes" comment="" />
+      <created>1722264831516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722264831516</updated>
+      <workItem from="1722264834914" duration="1870000" />
+      <workItem from="1722338423260" duration="2138000" />
+      <workItem from="1722443640100" duration="2601000" />
+      <workItem from="1722486054842" duration="5719000" />
+      <workItem from="1722499684001" duration="3864000" />
+      <workItem from="1722529254465" duration="233000" />
+      <workItem from="1722570564469" duration="749000" />
+      <workItem from="1723472410055" duration="637000" />
+      <workItem from="1724176095654" duration="8000" />
+      <workItem from="1724487696935" duration="3615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$AI.coverage" NAME="AI Coverage Results" MODIFIED="1722338593742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$collectData.coverage" NAME="collectData Coverage Results" MODIFIED="1722416628495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AD_UI" />
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$ML.coverage" NAME="ML Coverage Results" MODIFIED="1722941324268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1722424655932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$visualize.coverage" NAME="visualize Coverage Results" MODIFIED="1722422392413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$AD_UI.coverage" NAME="AD_UI Coverage Results" MODIFIED="1722425257151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AD_UI" />
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$model_test.coverage" NAME="model_test Coverage Results" MODIFIED="1722942306365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$processData.coverage" NAME="processData Coverage Results" MODIFIED="1722941228550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Process" />
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$Demo_UI.coverage" NAME="Demo_UI Coverage Results" MODIFIED="1722487665012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+    <SUITE FILE_PATH="coverage/Dataset_AwakeDrive$ML_Tuda.coverage" NAME="ML-Tuda Coverage Results" MODIFIED="1722941334977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI" />
+  </component>
+</project>
